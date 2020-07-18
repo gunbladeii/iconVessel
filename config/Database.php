@@ -2,8 +2,8 @@
   class Database {
     // DB Params
     private $host = 'localhost';
-    private $db_name = 'afms';
-    private $username = 'gunbladeii';
+    private $db_name = 'iconvess_icon';
+    private $username = 'iconvess_iconvess';
     private $password = 'Sh@ti5620';
     private $conn;
 
