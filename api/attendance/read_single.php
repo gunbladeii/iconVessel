@@ -22,6 +22,7 @@
   // Create array
   $post_arr = array(
     'id' => $post->id,
+    'imgQR' => $post->imgQR,
     'name' => $post->name,
     'staffID' => $post->staffID,
     'username' => $post->username,
